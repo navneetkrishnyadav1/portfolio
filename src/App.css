@@ -78,7 +78,7 @@ h1, h2, h3 {
 .section h2 {
   font-size: 2.2rem;
   margin-bottom: 1.5rem;
-  color: #1e3a8a;
+  color: #4773ed;
 }
 
 .section p {
@@ -90,7 +90,7 @@ h1, h2, h3 {
 
 .section h3 {
   margin-top: 2rem;
-  color: #1e40af;
+  color: #476eec;
 }
 
 .section ul li {
@@ -116,7 +116,7 @@ h1, h2, h3 {
 }
 
 .project-card {
-  background: rgba(255, 255, 255, 0.75);
+  background: rgb(255, 169, 255);
   backdrop-filter: blur(10px);
   border-radius: 16px;
   padding: 1.5rem;
